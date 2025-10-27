@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 3eff74450c4153e45ba13d632cb68686
+  productGUID: 25d66b8a190607e4cb7a7a00aa933778
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: DroneGame
+  productName: MyFirst3DGame
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -842,14 +842,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: DroneGame
+  metroPackageName: MyFirst3DGame
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: DroneGame
+  metroApplicationDescription: MyFirst3DGame
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -918,12 +918,12 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 02d59b48-b4ba-497a-a905-65c87d324408
+  cloudProjectId: f8f5e9ab-5aa2-4e1d-8874-ae0e8390df69
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: DroneGame
+  projectName: MyFirst3DGame
   organizationId: karlssoj
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
